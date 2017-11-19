@@ -1,6 +1,6 @@
 # Welcome!
 Hi!
-Welcome to FitHing.github.io! We are currently being busy, working on the website. So sadly, the website might be slow to connect to. Also, we might be adding the game in Pre-Alpha soon. We havn't even THOUGHT of it yet! So, please wait and your game will be created soon!
+Welcome to FitHing.github.io! We are currently being busy, working on the website. So sadly, the website might be slow to connect to. Also, we might be adding the game in Pre-Alpha soon. We haven't even THOUGHT of it yet! So, please wait and your game will be created soon!
 
 # Email me!
 
