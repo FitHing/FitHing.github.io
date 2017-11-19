@@ -4,7 +4,7 @@ Welcome to FitHing.github.io! We are currently being busy, working on the websit
 
 # Download
 
-https://fithing.github.io/download.html
+<a href="https://fithing.github.io/download.html"> </a>
 
 # Email me!
 
